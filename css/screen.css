@@ -58,7 +58,7 @@ label {
   label {
     display: inline-block;
     color: black;
-    background-color: pink;
+    background-color: rgb(243, 144, 177);
     margin-right: 5px;
     font-size: 1.3em;
     width: 50%;
@@ -71,7 +71,7 @@ label {
     padding-top: .5em;
   }
   body {
-    background-color: rgb(238, 203, 221);
+    background-color: rgb(252, 187, 221);
   }
 }
 
