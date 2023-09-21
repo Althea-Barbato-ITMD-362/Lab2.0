@@ -14,11 +14,16 @@ h1 {
   padding: 2.5%;
 }
 
-input {
-  height: 20px;
-  width: 98%;
-  margin: 0 auto;
+input[type=text] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 5px;
+  margin-bottom: 15px;
 }
+
 input[type=text]:hover {
   border-color: #dddddd;
   transition: border-color 0.3s ease-in-out;
